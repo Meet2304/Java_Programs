@@ -1,0 +1,5 @@
+Name: ABC	Physics: 100	Chemistry: 90	Maths: 20
+Name: ABC	Physics: 60	Chemistry: 98	Maths: 70
+Name: ABC	Physics: 80	Chemistry: 86	Maths: 50
+Name: ABC	Physics: 80	Chemistry: 45	Maths: 25
+Name: ABC	Physics: 40	Chemistry: 50	Maths: 24
